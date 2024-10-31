@@ -55,7 +55,8 @@ Open index.html in a web browser to run the app.
 5.Clear All Items: Click Clear All to remove all items from the list.
 
 ## Demo
-Add a demo link if you deploy it on GitHub Pages or any hosting platform.
+
+You can view a live demo of the project [here](https://stellar-sfogliatella-a283a9.netlify.app).
 
 ## License
 This project is open-source and available under the MIT License.
