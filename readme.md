@@ -57,7 +57,7 @@ Open index.html in a web browser to run the app.
 ## Demo
 Add a demo link if you deploy it on GitHub Pages or any hosting platform.
 
-##License
+## License
 This project is open-source and available under the MIT License.
 
  ```bash
